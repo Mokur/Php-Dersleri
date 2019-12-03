@@ -1,0 +1,22 @@
+
+
+PHP DERSLERÝ
+03.12.2019 - 2.DERS
+--------------------------
+
+
+# <!--   
+-->      --> yorum satýrlarý
+
+# HTML:5 
+CTRL+E --> html iskeletini getirir
+
+# ctrl+u --> kaynak kodlarýný görüntüler
+
+# yorum kýsayolu --> ctrl+ö
+
+# <kbd> kýsayollarý yazdýrabilmek için etiket</kbd>
+
+# f12 veya ctrl+f12 --> hizalandýrýr
+
+# 
