@@ -1,0 +1,15 @@
+
+
+---  PHP DERSLERİ  ---
+
+04.12.2019 - ÇARŞAMBA - 3.DERS
+----------------------------------
+
+# FONTAWESOME --> fontawesome cdn -  simgeleri bulabileceğin bi site, indirip dosya olarak da kullanabilrsin ya da siteden de çekebilirsin
+
+# display: block -->
+ yayar diğerini alta atar
+ display: inline --> yanyana atar
+ dispaly: inline-block --> yanyana ama herbirine bi alan tanır 
+
+# 
