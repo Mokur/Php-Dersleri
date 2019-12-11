@@ -1,0 +1,46 @@
+
+
+
+---  PHP 6. DERS  ---
+11.12.2019 - ÇARÞAMBA
+---------------------------
+
+# deðiþkebnlerde tür belirtmeye gerek yok
+
+# deðiþkenlerin baþýna $ iþareti yazýlýr
+
+# süslü parantez içinde yazmak daha anlaþýlýr oluyor
+
+# çift týrnak içinde belirtilen deðiþkenin içeriði görünür fakat tek týrnak içinde yazarsan deðiþken olarak algýlamaz, ne yazdýysan onu çýkartýr.
+
+# string ifadelerle deðiþkenleri birleþtirmeye çalýtýðýmýzda deððiþkenin baþýna ve sonuna "." konur(sonrasýnda baþka string ifade gelmeyecekse noktaya gerek yok).
+
+# php etiketi açtýktan sonra html css vs baþka kodlar kullanýlmayacaksa sonunda php kapama etiketi kullanmaya gerek yok
+
+# gettype() --> türünü getirir
+
+# var_dump --> baþýnda echo kullanmadan yazabiliriz, ekrana önce türünü sonra karakter sayýsýný sonra da içeriðini yazdýrýr
+
+# stringi integera çevirirken deðerini  yapar.
+
+# settype ile türünü ayarlayabiliyoruz
+
+# sabitler büyük harfle yazýlýr
+
+# sabit tanýmlamasý:  define('URL',"http://yazilimekip.com");  gibi
+
+# aritmetik operatörlerden ** -> üs alma
+
+# == eþittir
+  === denktir
+  !=  eþit deðil
+  <> eþit deðil
+  !== denk deðil
+  >=
+  <=
+  ! not deðil
+
+
+# null - boþ, undefined - yok
+
+# 
