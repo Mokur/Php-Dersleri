@@ -1,0 +1,20 @@
+
+
+
+--  PHP - 9.DERS  --
+18.02.2019 - ÇARÞAMBA
+----------------------------
+
+# recursive algoritmalara çalýþ
+
+# diziler
+
+# print_r
+
+# var_dump
+
+# dizilerde iterasyon
+
+# phpinfo() komutunu çalýþtýðýmýzda kullandýðýmýz sürümün bilgilerini getirir
+
+# 
