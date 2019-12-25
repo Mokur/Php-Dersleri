@@ -1,0 +1,31 @@
+
+
+
+---  PHP DERSLERÝ ---
+25.12.19 - ÇARÞAMBA
+--------------------------
+
+# @ hatalarý gizlemeye yarar, ama hep bunu kullanmayýz
+
+# tüm hatalarý gizlemek için;
+	error_reporting(0); yazýlýr
+
+# include ile tekrar tekrar dahil edebilþilyoruz
+
+# include_once ile bir kez dahil ediyor
+
+# require ve require_once da ayný þeyi yapar fakat eðer bulamazsa hata verip durdurur, devam etmez. Include'da ise devam eder.
+
+# exit ve die ile kesme durdurma iþlemi yapýyoruz, 
+bundan sonra gelen kodlar çalýþtýrýlmaz ama istersek exit("") þeklinde içerisinde yazdýrmak istediðimiz þeyi verebiliyoruz
+
+# ob_start(); --> yönlendirme
+header("location:https://bilmemne"); -- buraya yönlendirir
+ob_end_flush();
+
+
+
+#
+
+
+
